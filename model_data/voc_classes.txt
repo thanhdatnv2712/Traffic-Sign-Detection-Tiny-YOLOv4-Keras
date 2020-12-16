@@ -1,0 +1,6 @@
+straight
+dont_turn_right
+dont_turn_left
+stop
+turn_left
+turn_right

@@ -1,0 +1,4 @@
+model_data/last1.h5
+model_data/last2.h5
+model_data/yolov4_tiny_weights_coco.h5
+model_data/yolov4_tiny_weights_voc.h5
